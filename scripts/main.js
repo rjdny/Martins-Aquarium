@@ -1,4 +1,4 @@
-import { fishCollection } from "https://raw.githubusercontent.com/rjdny/Martins-Aquarium/main/api.js";
+import { fishCollection } from "../api.js";
 
 function dofishy() {
     var html = "";
